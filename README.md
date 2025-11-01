@@ -11,7 +11,7 @@ I am a BCA student passionate about programming. I learn by building projects th
 
 
 
-Skills: Python
+Skills: Python , HTML5
 
 - 🔭 I’m currently working on this page. 
 
