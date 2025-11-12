@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Bhushan Sable  
 ### 🎓 BCA Student | 💻 Building Projects | 🚀 Lifelong Learner  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=600&height=48&lines=BCA+Student;Building+Projects;Python+%7C+HTML5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=600&height=48&lines=BCA+Student;Building+Projects;Python+%7C+HTML5+%7C+CSS)](https://git.io/typing-svg)
+
 
 ---
 
