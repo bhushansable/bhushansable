@@ -1,42 +1,91 @@
-# Hi there 👋, I'm Bhushan Sable  
-### 🎓 BCA Student | 💻 Building Projects | 🚀 Lifelong Learner  
+# Hi, I'm Bhushan Sable 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=600&height=48&lines=BCA+Student;Building+Projects;Python+%7C+HTML5+%7C+CSS+%7C+JS+%7C+MySQL)](https://git.io/typing-svg)
+### BCA Student | Python Backend Developer | Building Real-World Projects
 
+I'm a BCA student focused on backend development, Python, databases, and building practical software projects.
+
+I believe in learning by building projects, solving problems, debugging errors, and continuously improving my skills.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend & Database
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 💰 Expenses Tracker
+A personal expense tracking application built to manage and organize expenses.
+
+- FastAPI backend
+- SQLite database
+- REST API
+- HTML, CSS & JavaScript frontend
+
+🔗 [View Repository](https://github.com/bhushansable/Expenses-Tracker)
+
+### 📦 Stock Flow – Inventory & Sales Management System
+A system designed to manage inventory, purchases, sales transactions, and stock movements.
+
+- Database design and relational tables
+- SQL and foreign key relationships
+- Inventory and stock movement tracking
+- Purchase and sales management
+
+🔗 [View Repository](https://github.com/bhushansable/Stock-Flow-Inventory-and-Sales-Management-System-)
+
+---
+
+## 📚 Currently Learning
+
+- Backend Development with Python
+- FastAPI & REST APIs
+- Authentication & JWT
+- PostgreSQL
+- Data Structures & Algorithms
+- Debugging & Problem Solving
 
 
 ---
 
-### 🧠 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,mysql,github,vscode)](https://skillicons.dev)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhushansable&show_icons=true&theme=github_dark)
 
 ---
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=bhushansable&theme=onedark&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+## 🔠 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushansable&layout=compact&theme=github_dark)
 
 ---
 
-### 📊 GitHub Stats
-![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhushansable&show_icons=true&theme=radical)
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhushansable)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhushansable)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/bhushansable)
 
 ---
 
-### 🔠 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushansable)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/bhushansable" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/bhushansable" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/bhushansable" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-</p>
-
----
-
-⭐ **Code. Build. Learn. Repeat.**
-
+> Learn. Build. Debug. Improve. Repeat.
 
 
